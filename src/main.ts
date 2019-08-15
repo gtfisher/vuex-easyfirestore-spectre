@@ -3,6 +3,7 @@ import App from './App.vue';
 import router from './router';
 import store from './store';
 import './../node_modules/spectre.css/dist/spectre.css';
+import './../node_modules/spectre.css/dist/spectre-icons.css';
 
 Vue.config.productionTip = false;
 
