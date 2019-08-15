@@ -1,5 +1,5 @@
 {
-  "name": "sceptre-easy-firestore",
+  "name": "vuex-easyfirestore-spectre",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
+    "spectre.css": "^0.5.8",
     "vue": "^2.6.10",
     "vue-class-component": "^7.0.2",
     "vue-property-decorator": "^8.1.0",

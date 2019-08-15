@@ -1,4 +1,16 @@
-# sceptre-easy-firestore
+# vuex-easyfirestore-spectre
+
+todo application using firestore with VUEX using VUEX-Easy-Firestore and the Spectre css framework
+
+To add Spectre
+run npm install --save spectre.css
+add import './../node_modules/spectre.css/dist/spectre.css'; to main.ts
+use sceptre classes in your views
+
+todo
+Add easy-firstore and dynamic data
+
+
 
 ## Project setup
 ```
